@@ -21,8 +21,8 @@
 
 ## 👨‍💻 Projects
 
-### 🤖 
-- TODO
+#### 🤖 [Custom GPT NL2SQL](https://github.com/Jasminex511/customGPT)
+- Built a Streamlit app that turns natural language into SQL using GPT and executes it on your database.
 
 ---
 
