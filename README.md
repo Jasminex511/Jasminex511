@@ -21,6 +21,9 @@
 
 ## 👨‍💻 Projects
 
+#### 🕸️ [Wikipedia Profile Pipeline](https://github.com/Jasminex511/WikiCrawler)
+- Built a Kafka-based data pipeline that crawls Wikipedia pages, extracts person-related information using LLMs, and stores enriched data into MongoDB and Elasticsearch for search and analytics.
+
 #### 🤖 [Custom GPT NL2SQL](https://github.com/Jasminex511/customGPT)
 - Built a Streamlit app that turns natural language into SQL using GPT and executes it on your database.
 
